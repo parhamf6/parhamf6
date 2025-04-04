@@ -7,7 +7,7 @@ My main focus is **Full-Stack Development** & **Machine Learning**. 🚀
 
 ## 🔧 Tech Stack & Tools  
 🌐 **Full-Stack Development**:  
-[![My Skills](https://skillicons.dev/icons?i=py,js,bash,linux,html,css,tailwind,django,react,redux,regex,docker,fastapi,figma,git,github,md,neovim,&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,django,fastapi,bash,linux,docker,html,css,figma,tailwind,react,regex,git,github,md,&perline=4)](https://skillicons.dev)
 
 <!--
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
