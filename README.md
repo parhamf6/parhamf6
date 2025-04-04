@@ -7,13 +7,16 @@ My main focus is **Full-Stack Development** & **Machine Learning**. 🚀
 
 ## 🔧 Tech Stack & Tools  
 🌐 **Full-Stack Development**:  
+[![My Skills](https://skillicons.dev/icons?i=py,js,bash,linux,html,css,tailwind,django,react,redux,regex,docker,fastapi,figma,git,github,md,neovim,&perline=3)](https://skillicons.dev)
+
+<!--
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-
+-->
 📌 **Currently Strengthening**:  
 I'm enhancing my **full-stack skills**, mastering **backend optimizations, scalable architectures, and advanced frontend techniques**.  
 Once I refine my web development expertise, I'll dive deep into **Machine Learning**!  
