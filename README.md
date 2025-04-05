@@ -33,7 +33,9 @@ Once I refine my web development expertise, I'll dive deep into **Machine Learni
 
 ## 📊 GitHub Activity  
 ![Parham's GitHub stats](https://github-readme-stats.vercel.app/api?username=parhamf6&show_icons=true&theme=dark)  
+<!--
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parhamf6&layout=compact&theme=dark)  
+-->
 
 ---
 
