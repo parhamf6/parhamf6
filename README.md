@@ -40,7 +40,7 @@ Once I refine my web development expertise, I'll dive deep into **Machine Learni
 ---
 
 ## 📬 Contact  
-📧 Email: **parhamfdev@gmail.com**  
+📧 Email: **parhamforatibio@gmail.com**  
 
 ---
 
