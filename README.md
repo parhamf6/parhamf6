@@ -31,8 +31,11 @@ Once I refine my web development expertise, I'll dive deep into **Machine Learni
 
 ---
 
-## 📊 GitHub Activity  
-![Parham's GitHub stats](https://github-readme-stats.vercel.app/api?username=parhamf6&show_icons=true&theme=dark)  
+## 📊 GitHub Activity
+
+![parhamf6's Stats](https://github-readme-stats.vercel.app/api?username=parhamf6&theme=dark&show_icons=true&hide_border=false&count_private=true&card_width=495 )<br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=parhamf6&theme=dark)](https://git.io/streak-stats)<br>
+![parhamf6's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parhamf6&theme=dark&show_icons=true&hide_border=false&layout=compact&card_width=495)
 <!--
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parhamf6&layout=compact&theme=dark)  
 -->
