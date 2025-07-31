@@ -33,10 +33,15 @@ Once I refine my web development expertise, I'll dive deep into **Machine Learni
 
 ## 📊 GitHub Activity
 
+![parhamf6's Stats](https://github-readme-stats.vercel.app/api?username=parhamf6&theme=dark&hide_border=false&include_all_commits=true&count_private=true&card_width=495 )<br/>
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=parhamf6&theme=dark&hide_border=false)<br/>
+![parhamf6's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parhamf6&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=495)
+
+<!--
 ![parhamf6's Stats](https://github-readme-stats.vercel.app/api?username=parhamf6&theme=dark&show_icons=true&hide_border=false&count_private=true&card_width=495 )<br>
 [![GitHub Streak](https://streak-stats.demolab.com?user=parhamf6&theme=dark)](https://git.io/streak-stats)<br>
 ![parhamf6's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parhamf6&theme=dark&show_icons=true&hide_border=false&layout=compact&card_width=495)
-
+-->
 <!--
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parhamf6&layout=compact&theme=dark)  
 -->
@@ -72,3 +77,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
