@@ -60,5 +60,9 @@ Once I refine my web development expertise, I'll dive deep into **Machine Learni
  <)   )╯  Keep Building!  
   /  \   
 
+---
+ <!-- LANGUAGES BREAKDOWN (STATIC EXAMPLE) START -->
+
+ <!-- LANGUAGES BREAKDOWN (STATIC EXAMPLE) END -->
 
 
