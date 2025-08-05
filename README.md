@@ -44,7 +44,7 @@ Once I refine my web development expertise, I'll dive deep into **Machine Learni
 -->
 <!--
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parhamf6&layout=compact&theme=dark)  
--->
+-->![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parhamf6&layout=compact&theme=dark)  
 
 ---
 
