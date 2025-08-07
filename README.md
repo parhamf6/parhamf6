@@ -24,9 +24,9 @@ Once I refine my web development expertise, I'll dive deep into **Machine Learni
 ---
 
 ## 🚀 Projects & Work  
-🔹 **Movie Search App** 🎬 – A cool search engine that fetches movie details from multiple sources.  
-🔹 **Machine Learning & Web Apps** – Exploring and building intelligent solutions.  
-
+🔹 **Portfoblog** 🎬 – A complete blog and portfolio.  
+🔹 **Gitfather** – A simple practive of github power and telergram bots.  
+🔹 **Devhub** – A collection of developers tools , a swiss army knife for developers.  
 > More coming soon...  
 
 ---
