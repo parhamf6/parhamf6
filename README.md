@@ -49,7 +49,7 @@ Once I refine my web development expertise, I'll dive deep into **Machine Learni
 - My goal is **always to learn and solve problems**.  
 - I love **exploring new things** and pushing my limits.  
   (•_•)   
- <)   )╯  Keep Building!  
+ <)    )╯  Keep Building!  
   /  \   
 
 ---
