@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm Parham  
 
 I'm a **self-taught developer** who loves to build, solve problems, and explore new technologies.  
-My main focus is **Full-Stack Development** & **Machine Learning**. 🚀  
+My main focus is **Full-Stack Development** & **Security Research**. 🚀  
 
 ---
 
