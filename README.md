@@ -6,8 +6,9 @@ My main focus is **Full-Stack Development** & **Security Research**. 🚀
 ---
 
 ## 🔧 Tech Stack & Tools  
-🌐 **Full-Stack Development**:  
-![My Skills](https://skillicons.dev/icons?i=py,js,django,fastapi,bash,linux,docker,regex,html,css,tailwind,react,figma,git,github,md,&perline=4)
+🌐 **Development Stack**:  
+![My Skills](https://skillicons.dev/icons?i=py,js,ts,php,django,fastapi,nodejs,html,css,tailwind,react,nextjs,mysql,postgres,sqlite,docker,linux,bash,git,github,figma,regex,md,obsidian&perline=4)
+
 
 <!--
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
