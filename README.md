@@ -1,59 +1,78 @@
-# 👋 Hey there! I'm Parham  
+# 👋 Hey there! I'm Parham
 
-I'm a **self-taught developer** who loves to build, solve problems, and explore new technologies.  
-My main focus is **Full-Stack Development** & **Security Research**. 🚀  
-
----
-
-## 🔧 Tech Stack & Tools  
-🌐 **Development Stack**:  
-![My Skills](https://skillicons.dev/icons?i=py,js,ts,php,django,fastapi,nodejs,html,css,tailwind,react,nextjs,mysql,postgres,sqlite,docker,linux,bash,git,github,figma,regex,md,obsidian&perline=4)
-
-
-<!--
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
--->
-📌 **Currently Strengthening**:  
-I'm enhancing my **full-stack skills**, mastering **backend optimizations, scalable architectures, and advanced frontend techniques**.  
-Once I refine my web development expertise, I'll dive deep into **Machine Learning**!  
+I'm a **self-taught developer** who loves to build, solve problems, and explore new technologies. My main focus is **Full-Stack Development** & **Security Research**. 🚀
 
 ---
 
-## 🚀 Projects & Work  
-🔹 **Portfoblog**  – A complete blog and portfolio.  
-🔹 **Gitfather** – A simple practice of github power and telergram bots.  
-🔹 **Devhub** – A collection of developers tools , a swiss army knife for developers.  
-> More coming soon...  
+### 🔗 Live Portfolio
+
+**Portfoblog (Portfolio & Blog)** — [https://portfoblog-front-private.vercel.app/](https://portfoblog-front-private.vercel.app/)
+*A live portfolio that includes a blog and project showcase (projects, write-ups, and demos).*
 
 ---
 
-## 📊 GitHub Activity
+## 🔧 Tech Stack
 
-![parhamf6's Stats](https://github-readme-stats.vercel.app/api?username=parhamf6&theme=dark&hide_border=false&include_all_commits=true&count_private=true&card_width=495 )<br/>
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=parhamf6&theme=dark&hide_border=false)<br/>
-![parhamf6's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parhamf6&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=495)
+![My Skills](https://skillicons.dev/icons?i=py,js,ts,php,django,fastapi,nodejs,html,css,tailwind,react,nextjs,mysql,postgres,sqlite,docker,linux,bash,git,github,figma,regex,md,obsidian\&perline=4)
 
+Below is a cleaned, organized table of my core stack — grouped so everything's in its place.
 
----
-
-## 📬 Contact  
-📧 Email: **parhamfdev@proton.me**  
-
----
-
-## 🎯 Fun & Personal  
-- My goal is **always to learn and solve problems**.  
-- I love **exploring new things** and pushing my limits.  
-  (•_•)   
- <)    )╯  Keep Building!  
-  /  \   
+| Category                   | Tools / Technologies                                              |
+| -------------------------- | ----------------------------------------------------------------- |
+| **Languages**              | Python, JavaScript, TypeScript, PHP, HTML, CSS, SQL, Bash         |
+| **Frontend**               | React, Next.js, Tailwind CSS, Shadcn UI                           |
+| **Backend / APIs**         | FastAPI, Django                                                   |
+| **Databases**              | PostgreSQL, MySQL, SQLite                                         |
+| **DevOps & Deployment**    | Docker, Linux, VPS, Nginx                                         |
+| **Testing & Automation**   | unit/integration testing (pytest)                                 |
+| **Security / Research**    | OWASP, CTF techniques, bug bounty workflows                       |
+| **Tooling & Productivity** | Git, GitHub, VSCode, Obsidian, Figma, Regex                       |
+| **Bots & Integrations**    | Telegram Bot, Git automation (Gitfather)                          |
 
 ---
 
+## 🚀 Projects & Work
 
+* **Portfoblog** — My portfolio + blog. Showcases projects, articles, and case studies. (Live: [https://portfoblog-front-private.vercel.app/](https://portfoblog-front-private.vercel.app/))
+* **Gitfather** — Git automation + Telegram bot utilities (commit automation, random utilities, YAML-based settings).
+* **Devhub** — A developer toolbox (collection of small utilities and interactive tools; built with Next.js + Tailwind + FastAPI).
 
+---
+
+## 📊 GitHub Activity & Stats
+
+![parhamf6's Stats](https://github-readme-stats.vercel.app/api?username=parhamf6\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true\&card_width=495)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=parhamf6\&theme=dark\&hide_border=false)
+
+![parhamf6's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parhamf6\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact\&card_width=495)
+
+---
+
+## 📬 Contact
+
+* Email: **[parhamfdev@proton.me](mailto:parhamfdev@proton.me)**
+* Portfolio (Live): [https://portfoblog-front-private.vercel.app/](https://portfoblog-front-private.vercel.app/)
+
+---
+
+## 🎯 Goals & Interests
+
+* Strengthening full-stack skills: **scalable backends, API design, and advanced frontend patterns**.
+* Long-term: dive into **Machine Learning** after consolidating web development fundamentals.
+* Enjoy **security research**, CTFs, and building secure systems.
+
+---
+
+## 🎉 Fun / Personality
+
+* My goal is **always to learn and solve problems**.
+* I love exploring new tools and pushing my limits.
+
+```
+  (•_•)   Keep Building!
+   <)    )╯
+    /  \   
+```
+
+---
