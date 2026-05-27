@@ -4,6 +4,20 @@ I'm a **self-taught developer** who loves to build, solve problems, and explore 
 
 ---
 
+I hope you're doing well.
+
+The reason for my inactivity on GitHub and my absence from my projects is the shutdown of international internet access in my country, along with extremely severe censorship, restrictions, and nearly unusable bandwidth.
+
+Restrictions may disrupt access, but they will never defeat free knowledge, open learning, or the will to build. So wherever you are in the world, and whatever limitations you may face, keep building, keep learning, and keep teaching.
+
+This is what I have done, what I am doing, and what I will continue to do — to build, to learn, and to pass knowledge forward, regardless of the barriers.
+
+During this time, I expanded the Kavlabs project and I am currently building an academy for Persian speakers — and hopefully, one day, in English as well — so that the cycle of education never stops.
+
+I long for the day when knowledge and every human right — including free and unrestricted access to the internet — are not privileges, but are accessible to everyone, in Iran and throughout the world.
+
+---
+
 ### 🔗 Live Portfolio
 
 **Portfoblog (Portfolio & Blog)** — [https://portfoblog-front-private.vercel.app/](https://portfoblog-front-private.vercel.app/)
