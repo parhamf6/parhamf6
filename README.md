@@ -19,15 +19,13 @@ Below is a cleaned, organized table of my core stack — grouped so everything's
 
 | Category                   | Tools / Technologies                                              |
 | -------------------------- | ----------------------------------------------------------------- |
-| **Languages**              | Python, JavaScript, TypeScript, PHP, HTML, CSS, SQL, Bash         |
+| **Languages**              | Python, JavaScript, TypeScript, PHP                               |
 | **Frontend**               | React, Next.js, Tailwind CSS, Shadcn UI                           |
-| **Backend / APIs**         | FastAPI, Django                                                   |
+| **Backend / APIs**         | FastAPI                                                           |
 | **Databases**              | PostgreSQL, MySQL, SQLite                                         |
 | **DevOps & Deployment**    | Docker, Linux, VPS, Nginx                                         |
-| **Testing & Automation**   | unit/integration testing (pytest)                                 |
-| **Security / Research**    | OWASP, CTF techniques, bug bounty workflows                       |
-| **Tooling & Productivity** | Git, GitHub, VSCode, Obsidian, Figma, Regex                       |
-| **Bots & Integrations**    | Telegram Bot, Git automation (Gitfather)                          |
+| **Security / Research**    | OWASP, bug bounty workflows, Cyber Security Research              |
+| **Other**                  | Git & Github                                                      |
 
 ---
 
