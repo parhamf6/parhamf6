@@ -82,14 +82,4 @@ I hope you're doing well.
 
 The reason for my inactivity on GitHub and my absence from my projects is the shutdown of international internet access in my country, along with extremely severe censorship, restrictions, and nearly unusable bandwidth.
 
-Nearly 90 days of continuous internet shutdowns and isolation from the rest of the world caused enormous damage to both people’s lives and the economy. During those 90 days, access to anything outside the country was effectively impossible — and you can imagine what that means: nothing could truly function, and almost no meaningful work could be done, accessing to simple things. Even the simplest tools took multiple exhausting attempts to access, often ending in failure, making work harder than you can imagine. During this time, many startups collapsed, many people were laid off, and many lost hope entirely. Now it is claimed that the internet is available again, but under extreme filtering and with such negligible bandwidth that it is hardly different from being cut off altogether.
-
-Restrictions may disrupt access, but they will never defeat free knowledge, open learning, or the will to build. So wherever you are in the world, and whatever limitations you may face, keep building, keep learning, and keep teaching.
-
-This is what I have done, what I am doing, and what I will continue to do — to build, to learn, and to pass knowledge forward, regardless of the barriers.
-
-During this time, I expanded the Kavlabs project and I am currently building an academy for Persian speakers — and hopefully, one day, in English as well — so that the cycle of education never stops.
-
-None of this changes the scale of the damage or the reality of what has been taken from us. But in times like these, continuing to build, learn, and teach is the only response I know.
-
 I long for the day when knowledge and every human right — including free and unrestricted access to the internet — are not privileges, but are accessible to everyone, in Iran and throughout the world.
