@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/readme_gif.gif" width="700" />
-</p>
-
 # Hey, I'm Parham 👋
 
 I'm just a developer who loves learning, teaching, and building things.
@@ -40,3 +36,9 @@ I hope you're doing well.
 The reason for my inactivity on GitHub and my absence from my projects is the shutdown of international internet access in my country, along with extremely severe censorship, restrictions, and nearly unusable bandwidth.
 
 I long for the day when knowledge and every human right — including free and unrestricted access to the internet — are not privileges, but are accessible to everyone, in Iran and throughout the world.
+
+---
+<p align="center">
+  <img src="readme_gif.gif" width="350" />
+</p>
+
